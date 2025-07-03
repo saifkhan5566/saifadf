@@ -4,6 +4,12 @@
 	"parameters": {
 		"factoryName": {
 			"value": "devopsadf4353"
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://storageu8778.dfs.core.windows.net/"
 		}
 	}
 }
